@@ -1,3 +1,3 @@
-import aio
+import core
 
-aio.main()
+core.main()
