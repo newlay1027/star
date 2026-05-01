@@ -1,3 +1,2 @@
-import core
-
-core.main()
+core
+main
